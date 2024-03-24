@@ -17,11 +17,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wumpus2000)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wumpus2000&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Wumpus2000/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Wumpus2000)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Wumpus2000)  
 
