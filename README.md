@@ -1,6 +1,6 @@
 ### Hi there 👋, my name Wumpus
 #### Wumpus2000
-![Wumpus2000]([[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.ibb.co/4jytVCs/g-copy.png)](k)
+![Wumpus2000](https://i.ibb.co/4jytVCs/g-copy.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
